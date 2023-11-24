@@ -14,7 +14,7 @@ To use AsteraUI in your SwiftUI project, follow these steps:
 Here’s a quick example of how to use AsteraUI:
 
 ## Contributing
-We welcome contributions to AsteraUI! Please read our Contributing Guidelines for details on how to contribute.
+We welcome contributions to AsteraUI! Please read our [Contributing Guidelines](https://github.com/xCloiz/AsteraUI/blob/main/CONTRIBUTINGGUIDE.md) for details on how to contribute.
 
 ## Feedback and Suggestions
 Your feedback is valuable to us! If you have suggestions or issues, please file them as issues on this GitHub repository.
